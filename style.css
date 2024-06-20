@@ -1,0 +1,57 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: linear-gradient(to right, #C0392B 0%, #ff9933 50%, #ffd700 100%);
+  color: linear-gradient(to right, #d6a2e8, #7b61ff, #ff9999);;
+}
+
+.header_div
+  {
+  background: linear-gradient(to right, #d6a2e8, #7b61ff, #ff9999);
+  
+  }
+
+  .header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .main_div button{
+    background: linear-gradient(to right, #d6a2e8, #7b61ff, #ff9999);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+  .copy_right_footer {
+  position: fixed;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #d6a2e8;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(71, 3, 3);
+}
+
+.hibye
+{
+  color: #ffd700 100%;
+  text-shadow: 5px 5px 5px rgb(197, 163, 16);
+}
+
+.bye
+{
+  color:#ff9933 50%;
+  text-shadow: 5px 5px 5px rgb(155, 97, 9);
+}
+
+.hi
+{
+  color: #C0392B 0%;
+  text-shadow: 5px 5px 5px rgb(99, 5, 5);
+}
+
